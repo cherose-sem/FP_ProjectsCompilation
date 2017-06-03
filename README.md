@@ -31,3 +31,8 @@ This is the compilation of all the projects and exercises from 4th Semester: Fun
 ** haskell-scotty demo  <br />
 ** ChatServer with Haskell  <br />
 (https://github.com/cph-cs241/FP-WebsocketChatServerHASKELL.git)
+
+# EXAM TOPIC: Elm
+(https://github.com/cph-cs241/FP_ProjectsCompilation/tree/master/elm-exercises) <br />
+(https://github.com/cph-cs241/FP_ProjectsCompilation/tree/master/RESTwithElm)  <br />
+(https://github.com/cph-cs241/FP_ProjectsCompilation/tree/master/chatserver/elm-exercises) <br />
